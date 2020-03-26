@@ -1,0 +1,7 @@
+C:\Users\simon\Desktop\Footgolf\bin\Debug\Footgolf.exe.config
+C:\Users\simon\Desktop\Footgolf\bin\Debug\Footgolf.exe
+C:\Users\simon\Desktop\Footgolf\bin\Debug\Footgolf.pdb
+C:\Users\simon\Desktop\Footgolf\obj\Debug\Footgolf.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Footgolf\obj\Debug\Footgolf.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Footgolf\obj\Debug\Footgolf.exe
+C:\Users\simon\Desktop\Footgolf\obj\Debug\Footgolf.pdb
